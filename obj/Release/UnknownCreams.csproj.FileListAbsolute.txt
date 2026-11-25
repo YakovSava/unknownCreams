@@ -1,0 +1,10 @@
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.csproj.AssemblyReference.cache
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.GeneratedMSBuildEditorConfig.editorconfig
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.AssemblyInfoInputs.cache
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.AssemblyInfo.cs
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.csproj.CoreCompileInputs.cache
+F:\AnotherProjects\mods\unknownCreams\bin\Release\UnknownCreams.deps.json
+F:\AnotherProjects\mods\unknownCreams\bin\Release\UnknownCreams.dll
+F:\AnotherProjects\mods\unknownCreams\bin\Release\UnknownCreams.pdb
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.dll
+F:\AnotherProjects\mods\unknownCreams\obj\Release\UnknownCreams.pdb
